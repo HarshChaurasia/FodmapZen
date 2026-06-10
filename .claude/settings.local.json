@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "WebFetch(domain:play.google.com)",
+      "WebFetch(domain:apps.apple.com)",
+      "WebFetch(domain:mwm.ai)",
+      "Bash(npm --version)",
+      "Bash(git --version)",
+      "Bash(npx --version)",
+      "Bash(pnpm --version)",
+      "Bash(npx create-expo-app@latest apps/mobile --template blank-typescript)",
+      "Bash(npx create-next-app@latest apps/web --typescript --tailwind --eslint --app --import-alias \"@/*\" --no-src-dir --yes)",
+      "Bash(npm install *)",
+      "Bash(npx next *)"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "fodmap-feast",
+  "private": true,
+  "version": "0.1.0",
+  "description": "FodMap Feast — Low-FODMAP meal planning app for IBS sufferers",
+  "scripts": {
+    "mobile": "pnpm --filter mobile start",
+    "web": "pnpm --filter web dev",
+    "lint": "pnpm -r lint",
+    "typecheck": "pnpm -r typecheck",
+    "build:web": "pnpm --filter web build"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  }
+}

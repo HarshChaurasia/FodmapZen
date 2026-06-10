@@ -1,4 +1,4 @@
-# FodMap Feast — Development Phases
+# FodmapZen — Development Phases
 **Date:** 2026-06-10 | **Version:** 1.0
 
 ---
@@ -357,7 +357,7 @@ user_favorites (user_id, recipe_id, saved_at)
 ## Repository Structure
 
 ```
-fodmap-feast/
+fodmapzen/
 ├── apps/
 │   ├── mobile/              # React Native Expo app
 │   │   ├── app/             # Expo Router screens

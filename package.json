@@ -1,8 +1,8 @@
 {
-  "name": "fodmap-feast",
+  "name": "fodmapzen",
   "private": true,
   "version": "0.1.0",
-  "description": "FodMap Feast — Low-FODMAP meal planning app for IBS sufferers",
+  "description": "FodmapZen — Low-FODMAP meal plans, recipes & IBS food guide",
   "scripts": {
     "mobile": "pnpm --filter mobile start",
     "web": "pnpm --filter web dev",

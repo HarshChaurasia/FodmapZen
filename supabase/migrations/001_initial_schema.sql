@@ -1,4 +1,4 @@
--- FodMap Feast — Supabase (PostgreSQL) Remote Schema
+-- FodmapZen — Supabase (PostgreSQL) Remote Schema
 -- Run via: supabase db push
 -- Row-Level Security is enabled on all user tables.
 

@@ -1,4 +1,4 @@
-# FodMap Feast — Product Strategy
+# FodmapZen — Product Strategy
 **Date:** 2026-06-10 | **Version:** 1.0
 
 ---
@@ -7,7 +7,7 @@
 
 **"The only FODMAP app you'll need from day one of elimination through years of maintenance — fully offline, no ads, no link-outs."**
 
-FodMap Feast closes the gap between knowing what to eat (food lookup) and actually eating it (planning, shopping, cooking). It guides users through all three phases of the low-FODMAP journey with a clean, approachable interface designed for people who are already stressed by their condition.
+FodmapZen closes the gap between knowing what to eat (food lookup) and actually eating it (planning, shopping, cooking). It guides users through all three phases of the low-FODMAP journey with a clean, approachable interface designed for people who are already stressed by their condition.
 
 ---
 
@@ -89,7 +89,7 @@ FodMap Feast closes the gap between knowing what to eat (food lookup) and actual
 **Pricing Justification:**
 - Monash App: $9.99 one-time (no meal planning)
 - Cara Care: $7.99/month (symptom focus only)
-- FodMap Feast: $7.99/month or $59.99/year (~$5/month) = better value than both with more features
+- FodmapZen: $7.99/month or $59.99/year (~$5/month) = better value than both with more features
 
 ---
 

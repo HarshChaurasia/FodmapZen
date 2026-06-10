@@ -1,4 +1,4 @@
-# FodMap Feast — Market Research Report
+# FodmapZen — Market Research Report
 **Date:** 2026-06-10 | **Version:** 1.0
 
 ---
@@ -115,7 +115,7 @@
 
 No existing app provides ALL of the following in one place:
 
-| Feature | Monash | FODMAP Friendly | Cara Care | Spoonful | **FodMap Feast** |
+| Feature | Monash | FODMAP Friendly | Cara Care | Spoonful | **FodmapZen** |
 |---|---|---|---|---|---|
 | Offline recipe library (100+) | Partial | No (links out) | No | No | **Yes** |
 | Weekly meal planner | No | No | Basic | No | **Yes** |
@@ -196,7 +196,7 @@ Expo SQLite in 2025-2026 supports WAL mode, FTS5 full-text search, and async ope
 - Only ~3% of apps use paid-only download (but attracts higher-intent users)
 - Health apps: 90-day retention ~34% (better than fitness apps at 31%)
 
-### Structural Advantage for FodMap Feast
+### Structural Advantage for FodmapZen
 IBS is a lifelong condition. Unlike fitness apps (6-week churn), FODMAP users need guidance for:
 - Elimination phase: 8–12 weeks
 - Reintroduction phase: 6–12 months
@@ -210,7 +210,7 @@ This means structurally high LTV (Lifetime Value) compared to general health app
 
 ## 8. Conclusion & Build Recommendation
 
-**Build FodMap Feast.** The market is large (600M+ IBS sufferers), growing (8.9% CAGR in related food market), and the dominant app (Monash) deliberately avoids meal planning. The gap between "food lookup tool" and "full meal planning solution" is real, validated by user complaints across every platform, and no competitor has filled it.
+**Build FodmapZen.** The market is large (600M+ IBS sufferers), growing (8.9% CAGR in related food market), and the dominant app (Monash) deliberately avoids meal planning. The gap between "food lookup tool" and "full meal planning solution" is real, validated by user complaints across every platform, and no competitor has filled it.
 
 The highest-risk item is content creation (recipe writing and verification). Mitigate by hiring a GI dietitian early (budget: $3,000–5,000 for 150 verified recipes).
 

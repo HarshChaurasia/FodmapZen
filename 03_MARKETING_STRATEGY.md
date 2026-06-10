@@ -1,17 +1,21 @@
-# FodMap Feast — Marketing Strategy
+# FodmapZen — Marketing Strategy
 **Date:** 2026-06-10 | **Version:** 1.0
 
 ---
 
 ## 1. Brand Positioning
 
-### Tagline Options (Test with Users)
-1. **"Eat well with IBS. Finally."** — emotional, relief-focused
-2. **"Your FODMAP meal planner. Offline. No ads. Always with you."** — feature-led
-3. **"From food list to dinner table — your complete FODMAP companion."** — journey-led
-4. **"Stop Googling. Start eating."** — pain-point-led (frustration with fragmented info)
+### Tagline
+- **App name:** FodmapZen
+- **Hero tagline:** *"Eat well with IBS. Finally."* — emotional, relief-focused
+- **Subtitle / SEO:** *"Low-FODMAP meal plans, recipes & IBS food guide — offline & always with you."* — hits top searched keywords (low FODMAP meal plan, low FODMAP recipes, IBS food guide)
+- **App Store subtitle (30 chars):** *"Low-FODMAP Recipes & Meal Plan"*
+- **Alt taglines for A/B testing:**
+  1. *"Your FODMAP meal planner. Offline. No ads. Always with you."* — feature-led
+  2. *"From food list to dinner table — your complete FODMAP companion."* — journey-led
+  3. *"Stop Googling. Start eating."* — pain-point-led
 
-**Recommended primary:** *"Eat well with IBS. Finally."* — emotional resonance > feature list for an audience that has been let down by diet tools before.
+**Primary:** *"Eat well with IBS. Finally."* — emotional resonance > feature list for an audience that has been let down by diet tools before.
 
 ### Brand Voice
 - **Warm + empathetic** (not clinical, not sterile)
@@ -34,14 +38,14 @@
 - **Pain:** Overwhelmed by the elimination diet, doesn't know what to cook or buy
 - **Job to be done:** "Tell me what to eat this week without having to research everything"
 - **Channel:** Reddit (r/ibs, r/FODMAP), gastroenterologist referrals, Google Search
-- **Message:** "FodMap Feast gives you a full week of meals, auto shopping list, and recipes — all offline, all verified."
+- **Message:** "FodmapZen gives you a full week of meals, auto shopping list, and recipes — all offline, all verified."
 
 ### Secondary: "The Phase Traveller"
 - **Demographics:** Mixed gender, 30–55, been on FODMAP 3+ months, entering reintroduction
 - **Pain:** Nobody explains HOW to reintroduce foods; confused by conflicting advice
 - **Job to be done:** "Track which foods I've tested and what my reactions were"
 - **Channel:** FODMAP-specific Facebook groups, dietitian referrals, IBS podcasts
-- **Message:** "FodMap Feast guides you through reintroduction step-by-step, so you can discover your personal FODMAP tolerance."
+- **Message:** "FodmapZen guides you through reintroduction step-by-step, so you can discover your personal FODMAP tolerance."
 
 ### Tertiary: "The Chronic Manager"
 - **Demographics:** Long-term IBS sufferers, 35–60, managing condition ongoing
@@ -55,7 +59,7 @@
 - **Pain:** Patients come back next appointment with zero dietary progress
 - **Job to be done:** "Recommend a tool patients will actually use between appointments"
 - **Channel:** Direct email outreach, RD professional associations, conference presence
-- **Message:** "FodMap Feast gives your IBS patients the meal planning and reintroduction tracking tools they need between appointments — dietitian-verified."
+- **Message:** "FodmapZen gives your IBS patients the meal planning and reintroduction tracking tools they need between appointments — dietitian-verified."
 
 ---
 
@@ -89,7 +93,7 @@
 
 **Paid (Facebook/Instagram Ads):**
 - Target: IBS-related interests, FODMAP interest, digestive health, ages 25–55, female-skewed
-- Ad creative: before/after (chaotic meal planning vs. FodMap Feast weekly plan)
+- Ad creative: before/after (chaotic meal planning vs. FodmapZen weekly plan)
 - Best-performing ad format for health apps: video testimonial (15–30 seconds)
 - Budget: $500–1,000/month in launch months
 - Target CPA: $3–5 per install
@@ -106,7 +110,7 @@
    - British Dietetic Association
    - LinkedIn search: "dietitian IBS FODMAP"
 2. Email template (personal, not mass):
-   - Subject: "Free Premium access for your IBS patients — FodMap Feast"
+   - Subject: "Free Premium access for your IBS patients — FodmapZen"
    - Offer: Free lifetime Premium account for RD + discount code for patients (50% off 3 months)
    - Ask: "Would you be willing to recommend it to patients who ask about FODMAP apps?"
 3. Follow-up with RDs who download: "Would you be open to a 15-minute call?"
@@ -142,7 +146,7 @@
 - "low fodmap app" (30K/month)
 
 **ASO Tactics:**
-- App title: "FodMap Feast — IBS Meal Planner"
+- App title: "FodmapZen — IBS Meal Planner"
 - Subtitle: "Low FODMAP Recipes & Tracker"
 - Description: First 3 lines must include primary keywords
 - Screenshots: Show meal plan, recipe view, shopping list, reintroduction tracker
@@ -211,7 +215,7 @@
 ### T-0: Launch Day
 - [ ] App goes live on App Store + Google Play
 - [ ] Product Hunt launch (Tuesday)
-- [ ] Reddit post: "Finally launched FodMap Feast after X months — here's what I built and why"
+- [ ] Reddit post: "Finally launched FodmapZen after X months — here's what I built and why"
 - [ ] Email waitlist (conversion to download)
 - [ ] RD email: "It's live — here are your patient discount codes"
 
@@ -278,7 +282,7 @@
 ### Story Angles
 1. "The First App That Plans Your Whole FODMAP Week (And Works Offline)"
 2. "Finally: A FODMAP App Dietitians Actually Recommend"
-3. "How FodMap Feast Is Fixing the Broken FODMAP App Market"
+3. "How FodmapZen Is Fixing the Broken FODMAP App Market"
 
 ---
 

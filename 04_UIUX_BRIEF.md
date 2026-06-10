@@ -1,4 +1,4 @@
-# FodMap Feast — UI/UX Design Brief
+# FodmapZen — UI/UX Design Brief
 **Date:** 2026-06-10 | **Version:** 1.0
 
 ---

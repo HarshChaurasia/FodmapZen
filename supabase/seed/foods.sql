@@ -1,4 +1,4 @@
--- FodMap Feast — Food Database Seed
+-- FodmapZen — Food Database Seed
 -- Based on Monash University FODMAP research (publicly available data)
 -- Format: id, name, category, default_serving_g, fodmap_level, fructans, gos, lactose, fructose, sorbitol, mannitol, serving_note, tags
 -- 500 foods across all categories

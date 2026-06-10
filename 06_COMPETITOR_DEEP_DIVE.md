@@ -1,4 +1,4 @@
-# FodMap Feast — Live Competitor Deep Dive
+# FodmapZen — Live Competitor Deep Dive
 **Date:** 2026-06-10 | Source: App Store + Google Play live data
 
 ---
@@ -78,7 +78,7 @@
 - ❌ No restaurant guide
 - ❌ Pure food database — nothing else
 
-**Strategic Assessment:** A great reference tool, not a meal planning tool at all. Users love it for quick grocery-store lookups. Not a direct competitor for FodMap Feast's core value prop. Could be complementary in user's workflow.
+**Strategic Assessment:** A great reference tool, not a meal planning tool at all. Users love it for quick grocery-store lookups. Not a direct competitor for FodmapZen's core value prop. Could be complementary in user's workflow.
 
 ---
 
@@ -107,7 +107,7 @@
 - ❌ Difficult cancellation (user complaints)
 - ❌ FODMAP data quality not dietitian-verified specifically for FODMAP
 
-**Strategic Assessment:** Different job-to-be-done. Fig is a grocery scanner for multi-diet families. FodMap Feast is a full meal planning companion for FODMAP specialists. Low overlap. Some users may use both.
+**Strategic Assessment:** Different job-to-be-done. Fig is a grocery scanner for multi-diet families. FodmapZen is a full meal planning companion for FODMAP specialists. Low overlap. Some users may use both.
 
 ---
 
@@ -134,7 +134,7 @@
 - ❌ Overwhelming for newly diagnosed (too many tracking fields at once)
 - ❌ $7.99/month for symptom tracking feels expensive to users
 
-**Strategic Assessment:** Cara Care serves a different primary user (symptom-first vs. meal-first). Users frustrated by lack of guidance on what to eat will leave Cara Care for FodMap Feast. Positioning: "If Cara Care tracks HOW you feel, FodMap Feast helps you eat BETTER."
+**Strategic Assessment:** Cara Care serves a different primary user (symptom-first vs. meal-first). Users frustrated by lack of guidance on what to eat will leave Cara Care for FodmapZen. Positioning: "If Cara Care tracks HOW you feel, FodmapZen helps you eat BETTER."
 
 ---
 
@@ -169,7 +169,7 @@
 - ❌ No web companion
 - ❓ Auto-generate meal plan unclear
 
-**IMPORTANT WARNING:** Fodmate is the closest feature match to FodMap Feast at a $0 price point. If it improves and gains reviews, it becomes the main threat. We must monitor this app closely.
+**IMPORTANT WARNING:** Fodmate is the closest feature match to FodmapZen at a $0 price point. If it improves and gains reviews, it becomes the main threat. We must monitor this app closely.
 
 **Differentiation vs. Fodmate:**
 1. Dietitian-verified badge (trust signal)
@@ -279,7 +279,7 @@
 | **Fodmate** | **Partial** | **❌** | **Partial** | **Guide only** | **❌** | **🔴 HIGH — monitor** |
 | Monash | ❌ | Basic | Partial (70) | ❌ | ❌ | 🟡 Medium (complementary) |
 | FODMAPP/FODMAPai | ❌ | ❌ | ❌ | ❌ | ❌ | 🟡 Medium (AI future threat) |
-| **FodMap Feast** | **✅ Auto** | **✅ Auto** | **✅ 200+** | **✅ Full** | **✅ 15 cuisines** | — |
+| **FodmapZen** | **✅ Auto** | **✅ Auto** | **✅ 200+** | **✅ Full** | **✅ 15 cuisines** | — |
 
 ---
 
@@ -292,7 +292,7 @@ Fast FODMAP has 21K ratings but hasn't shipped a meaningful update since March 2
 Fodmate is free, has no ads, covers recipes, meal planning, and reintroduction. It's nearly our exact vision but appears to be an indie project without dietitian backing, cloud sync, shopping list, or restaurant guide. If we launch before Fodmate grows its review count (currently 259), we can establish brand authority first.
 
 ### Conclusion 3: AI Scanning is the Next Battleground (12–18 Months)
-4 apps (FODMAPP, FODMAPai, belio, FODMAP Friendly AI Scanner) are betting on camera-based food analysis. None has meaningful traction yet. FodMap Feast should plan to add barcode/AI scanning in Phase 6 to stay relevant. The quality of the food database + AI combination will be the differentiator — not just having a camera.
+4 apps (FODMAPP, FODMAPai, belio, FODMAP Friendly AI Scanner) are betting on camera-based food analysis. None has meaningful traction yet. FodmapZen should plan to add barcode/AI scanning in Phase 6 to stay relevant. The quality of the food database + AI combination will be the differentiator — not just having a camera.
 
 ### Conclusion 4: The Reintroduction Tracker is Genuinely Unserved
 Of all 26 apps surveyed, **zero** offer a proper interactive reintroduction tracker with:
@@ -314,9 +314,9 @@ Low FODMAP A to Z has 4.8⭐ (9K reviews) with zero marketing investment — pur
 
 ## 5. Revised Competitive Positioning Statement
 
-> **FodMap Feast is the only FODMAP app that takes you from "what is FODMAP?" to "I know exactly what to eat this week, what to buy, and which dishes are safe at the restaurant tonight."**
+> **FodmapZen is the only FODMAP app that takes you from "what is FODMAP?" to "I know exactly what to eat this week, what to buy, and which dishes are safe at the restaurant tonight."**
 >
-> Fast FODMAP tells you what's safe. Monash tells you WHY. FodMap Feast tells you WHAT TO DO — with a week of verified meals, auto-generated shopping list, guided reintroduction, and a restaurant pocket guide — all offline, all verified by a registered dietitian.
+> Fast FODMAP tells you what's safe. Monash tells you WHY. FodmapZen tells you WHAT TO DO — with a week of verified meals, auto-generated shopping list, guided reintroduction, and a restaurant pocket guide — all offline, all verified by a registered dietitian.
 
 ---
 

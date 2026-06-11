@@ -324,9 +324,17 @@ user_favorites (user_id, recipe_id, saved_at)
 - [ ] Dietitian dashboard (separate web tool for RDs to see patient logs)
 
 ### 6.4 AI Meal Planning (Month 6+)
-- [ ] Claude API integration for personalized meal suggestions
+- [x] Claude API integration for personalized meal suggestions — **pulled forward; shipped as the AI Dietitian chat (Premium), see [07_AI_AND_ADMIN_SPEC.md](07_AI_AND_ADMIN_SPEC.md)**
 - [ ] Natural language: "I want something quick for tomorrow that uses zucchini"
 - [ ] Adaptive plan (learns from logged meals and reactions over time)
+
+### 6.5 Admin / Dietitian Console + AI Content Pipeline (added 2026-06-11)
+Spec: [07_AI_AND_ADMIN_SPEC.md](07_AI_AND_ADMIN_SPEC.md)
+- [x] Supabase roles (`user_profiles.role`) + content tables with draft→approved workflow (migration 002)
+- [x] Web admin console at `/admin`: foods CRUD, recipe review queue, AI import
+- [x] AI parsing endpoint (`/api/ai/parse`): raw text → structured food/recipe/restaurant drafts
+- [x] AI Dietitian chat in mobile (`/ai-dietitian`), Premium-gated, served by `/api/ai/chat`
+- [ ] Seed-export script: approved Supabase content → regenerate mobile `foodsSql.ts`/`recipesSql.ts`
 
 ---
 

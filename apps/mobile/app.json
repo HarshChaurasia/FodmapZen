@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "FodmapZen",
+    "slug": "fodmapzen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "fodmapzen",
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      [
+        "expo-sqlite",
+        {
+          "enableFTS": true,
+          "useSQLCipher": false,
+          "android": { "enableFTS": true }
+        }
+      ],
+      [
+        "expo-secure-store",
+        { "faceIDPermission": "Allow FodmapZen to access Face ID for secure sign-in." }
+      ]
+    ],
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FAFAF7"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.fodmapzen.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "FodmapZen uses the camera to scan food barcodes.",
+        "NSPhotoLibraryUsageDescription": "FodmapZen accesses your photo library to attach images to food logs."
+      }
+    },
+    "android": {
+      "package": "com.fodmapzen.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#2D7A4F",
+        "foregroundImage": "./assets/icon.png"
+      },
+      "permissions": ["CAMERA", "READ_MEDIA_IMAGES"]
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
